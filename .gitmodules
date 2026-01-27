@@ -1,0 +1,6 @@
+[submodule "src/luxcoin"]
+	path = src/luxcoin
+	url = https://github.com/luxcoincore/luxcoin.git
+[submodule "src/cryptonote"]
+	path = src/cryptonote
+	url = https://github.com/luxcoincore/luxcoin.git
